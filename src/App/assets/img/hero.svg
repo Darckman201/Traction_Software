@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="341pt" height="50pt" viewBox="0 0 341 50" version="1.1">
+<defs>
+<linearGradient id="linear0" gradientUnits="userSpaceOnUse" x1="0.814" y1="0.106" x2="0.213" y2="0.854" gradientTransform="matrix(96.977565,0,0,41.082031,243.976449,0.0615235)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0.2;"/>
+</linearGradient>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image9" width="341" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVUAAAAyCAYAAADsikh4AAAABmJLR0QA/wD/AP+gvaeTAAAAu0lEQVR4nO3YMQrCQBAF0EkIYhq7xKNYeBDLnDeNjQewsFAQRJAI2mjjAZYlKIb36vnMVL+YCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvqrICb32h3ksz01yYNhdi6a75ewC+CdVVmqxmUXVt8nzdfuMCKUKTF756wMApkSpAoxIqQKMKO+nelk9ol6fkufv2yHimLUKAAAAAAAAAAAAAAAAAAAAAAAAAADg4w1VwBJU7Q6jUgAAAABJRU5ErkJggg=="/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image9"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="341" height="50"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(100%,100%,100%);fill-opacity:1;" d="M 19.578125 34.523438 C 18.023438 34.523438 16.53125 34.257812 15.433594 33.78125 C 14.332031 33.304688 13.714844 32.65625 13.71875 31.980469 C 13.714844 31.304688 14.332031 30.65625 15.433594 30.179688 C 16.53125 29.703125 18.023438 29.4375 19.578125 29.4375 C 21.132812 29.4375 22.625 29.703125 23.722656 30.183594 C 24.828125 30.65625 25.445312 31.304688 25.441406 31.980469 C 25.445312 32.65625 24.828125 33.304688 23.722656 33.78125 C 22.625 34.257812 21.132812 34.523438 19.578125 34.523438 Z M 19.578125 30.164062 C 17.269531 30.164062 15.394531 30.976562 15.394531 31.980469 C 15.394531 32.984375 17.265625 33.796875 19.578125 33.796875 C 21.890625 33.796875 23.761719 32.984375 23.765625 31.980469 C 23.761719 30.976562 21.890625 30.164062 19.578125 30.164062 Z M 19.578125 30.164062 "/>
+</g>
+<linearGradient id="linear1" gradientUnits="userSpaceOnUse" x1="0.093" y1="0.119" x2="0.916" y2="0.851" gradientTransform="matrix(149.029277,0,0,37.245117,0,0)">
+<stop offset="0" style="stop-color:rgb(100%,100%,100%);stop-opacity:0;"/>
+<stop offset="1" style="stop-color:rgb(100%,100%,100%);stop-opacity:0.2;"/>
+</linearGradient>
+<image id="image17" width="341" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVUAAAAyCAYAAADsikh4AAAABmJLR0QA/wD/AP+gvaeTAAAArUlEQVR4nO3UMQrCQBCG0dkliljaiIJN7uAdcimP5YEEWxsx2iyYxm67oCzCe+U/zVdNBAAAAAAAAAAAAAB8X2odAMzzfuy2seg31eE2XNL+9GyQRER0rQOAmfJ5Gem4rvZulRvU8OGpwr8q4yvy9V7tYykRhwZBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwA9NFOUO3ylLcCYAAAAASUVORK5CYII="/>
+<mask id="mask1">
+  <g filter="url(#alpha)">
+<use xlink:href="#image17"/>
+  </g>
+</mask>
